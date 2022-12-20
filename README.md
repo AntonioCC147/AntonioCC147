@@ -6,7 +6,7 @@
   - Domain: **"Automatic Control"**
   - Speciality: **"Automatic and Applied Informatics"**
 - Member in **"Student League of the Faculty of Automation and Computers"** 🏫
-  - Possible future Member of the **IT Department?** 👨🏻‍💻
+  - Member of the **IT Department** 👨🏻‍💻
 - Contributor with **[`edeea.ro`](https://edeea.ro/produs/pachet-agenda-informatica-set-memoratoare-caiet-informatica/)** 📚
 
 ### My History
