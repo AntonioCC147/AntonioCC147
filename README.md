@@ -15,5 +15,3 @@
 - I am the head of year of my faculty
 - I entered the college student league on *23.10.2022*
 - I became a member of the IT Department on *20.12.2022*
-
-### Here I will write my future
