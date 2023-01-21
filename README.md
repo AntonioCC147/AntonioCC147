@@ -1,6 +1,6 @@
 ### Just me and myself
 
-- Crantea Antonio Cristian (Toni) 💚
+- Toni 💚
 - Student at **"University Politehnica of Bucharest"** 🎓
   - Faculty: **"Automatic Control and Computer Science"**
   - Domain: **"Automatic Control"**
