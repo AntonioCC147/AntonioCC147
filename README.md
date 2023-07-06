@@ -1,7 +1,6 @@
 ### About me...
 
-- Personal Website: https://antoniocrantea.software/
-- Toni 💚
+- Personal Website: https://antoniocrantea.software/ 💚
 - Student at **"University Politehnica of Bucharest"** 🎓
   - Faculty: **"Automatic Control and Computer Science"**
   - Speciality: **"Automatic and Applied Informatics"**
