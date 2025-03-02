@@ -5,4 +5,4 @@
   - Faculty: **"Automatic Control and Computer Science"**
   - Speciality: **"Automatic and Applied Informatics"**
 - Member of the **"Student League from the Faculty of Automatic Control and Computer Science"** 🏫
-  - Member in the **"IT Department"** 👨🏻‍💻
+  - Former Member in the **"IT Department"** 👨🏻‍💻
